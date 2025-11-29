@@ -1,0 +1,21 @@
+#------- Python virtual environments
+el_robot_env/
+.venv/
+
+#------- Python cache
+__pycache__/
+*.py[cod]
+
+#------- VSCode
+.vscode/
+*.db
+
+#------- ROS 2 build artifacts
+build/
+install/
+log/
+
+#------- Misc
+*.so
+*.dll
+*.o
