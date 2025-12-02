@@ -28,6 +28,8 @@ setup(
             'image_viewer = oakd_vision.image_viewer:main', 
             'nn_overlay = oakd_vision.nn_overlay:main',
             'depth_point_demo = oakd_vision.depth_point_demo:main',
+            'yolo11_dummyHuman = oakd_vision.yolo11_dummyHuman_node:main',  #------- new
+
 
         ],
     },
